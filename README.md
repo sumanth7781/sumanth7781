@@ -2,7 +2,6 @@
 
 **sumanth7781/sumanth7781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 MUKKAMALA SUMANTH
-Email: yourname@gmail.com | LinkedIn: linkedin.com/in/yourusername | GitHub: github.com/yourusername
 
 --------------------------------------------------------------------------------
 👋 ABOUT ME
@@ -20,6 +19,7 @@ I enjoy finding ways to streamline processes and automate routine tasks.
 
 --------------------------------------------------------------------------------
 🚀 PROJECTS & EXPERIENCE
+
 ✅ Batch Administration & Scheduling
 Worked in the CCS applications team, scheduling and monitoring critical batches that drive financial operations.
 
@@ -37,13 +37,12 @@ Designed and implemented a C++ algorithm using a greedy approach to find the min
 
 --------------------------------------------------------------------------------
 📜 EDUCATION
-B.Tech in Computer Science & Engineering
-Graduated: May 2025 | CGPA: 9.5
+B.Tech in Computer Science & Information Technology
+Graduated: May 2025 | CGPA: 9.42
 
 --------------------------------------------------------------------------------
 📫 CONTACT
-Email: yourname@gmail.com
-LinkedIn: linkedin.com/in/yourusername
-GitHub: github.com/yourusername
+Email: mukkamalasumanth43027@gmail.com
+phone:+91 9912328492
 
 
