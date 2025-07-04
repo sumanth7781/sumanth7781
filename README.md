@@ -1,15 +1,6 @@
 ## Hi there 👋
 
-**sumanth7781/sumanth7781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-MUKKAMALA SUMANTH
-
---------------------------------------------------------------------------------
-👋 ABOUT ME
-I’m Mukkamala Sumanth, a Computer Science and Engineering graduate (B.Tech, 2025) with a CGPA of 9.5.
-I’m passionate about building efficient systems, working with cloud platforms, and solving practical problems.
-Currently, I’m gaining hands-on experience in batch administration, scheduling, and operations on cloud-based applications.
-I enjoy finding ways to streamline processes and automate routine tasks.
-
+I’m Mukkamala Sumanth, I am currently working as Associate consultant at Oracle in Energy and Water Global Business Unit.
 --------------------------------------------------------------------------------
 ⚙️ SKILLS
 - Programming: Python, Java, SQL, C++, Shell Scripting
@@ -26,14 +17,11 @@ Worked in the CCS applications team, scheduling and monitoring critical batches 
 ✅ Batch Operations on Servers & VMs
 Managed batch processing on virtual machines and servers, ensuring smooth file loading and system integration across platforms.
 
-✅ Bookshelf Rearrangement Algorithm (C++)
-Designed and implemented a C++ algorithm using a greedy approach to find the minimum number of moves needed to arrange books in consecutive order.
-
 --------------------------------------------------------------------------------
 🎓 CERTIFICATIONS
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - Google Cloud Associate Engineer
-- Salesforce Certified AI Associate
+- Google Tensorflow
 
 --------------------------------------------------------------------------------
 📜 EDUCATION
